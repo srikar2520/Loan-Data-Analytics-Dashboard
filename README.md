@@ -83,20 +83,6 @@ This dashboard helps stakeholders:
 
 ---
 
-🏆 Certification
-
-This project was completed as part of the **Google Cloud Data Analytics Certificate**, where I gained hands-on experience in:
-
-- Cloud-based data warehousing (BigQuery)
-- SQL for large-scale data analysis
-- Data modeling and transformation
-- Building interactive dashboards using Looker
-
-🔗 **Certificate Verification:**  
-[https://www.credly.com/badges/YOUR-LINK-HERE](https://www.credly.com/badges/629753ec-6b94-45bb-b205-340a5cc8143e/public_url)
-
----
-
 📌 Future Improvements
 - Add predictive analytics (loan default prediction)
 - Integrate real-time data pipelines
