@@ -104,7 +104,7 @@ This project was completed as part of the **Google Cloud Data Analytics Certific
 
 ---
 
-Author
+Author:
 Srikar Chetlapalli   
 Aspiring Cloud Data Analyst  
 
