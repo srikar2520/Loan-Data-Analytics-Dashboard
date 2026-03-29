@@ -48,34 +48,34 @@ The dataset includes key financial and customer-related attributes:
 ## 📊 Dashboard Preview
 
 ### 🔹 Final Dashboard
-![Dashboard](screenshots/dashboard-final.png)
+![Dashboard](dashboard-final.png)
 
 ---
 
 ### 🔹 Loan Status Distribution
-![Loan Status](screenshots/loan-status-distribution.png)
+![Loan Status](loan-status-distribution.png)
 
 ---
 
 ### 🔹 State-wise Loan Distribution
-![State Loans](screenshots/state-wise-loans.png)
+![State Loans](state-wise-loans.png)
 
 ---
 
 ### 🔹 Top Customers by Income
-![Top Customers](screenshots/top-customers.png)
+![Top Customers](top-customers.png)
 
 ---
 
 ## 🧠 Key Analysis
 
 ### 🔹 BigQuery Join Results
-![BigQuery Analysis](screenshots/bigquery-join-analysis.png)
+![BigQuery Analysis](bigquery-join-analysis.png)
 
 ---
 
 ### 🔹 Dataset Overview
-![Dataset](screenshots/dataset-overview.png)
+![Dataset](dataset-overview.png)
 
 ---
 
