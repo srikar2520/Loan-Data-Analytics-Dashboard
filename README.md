@@ -1,99 +1,108 @@
-📊 Loan Data Analytics Dashboard (Google Cloud Capstone Project)
-
-🚀 Project Overview
-This project demonstrates an end-to-end cloud data analytics workflow using Google Cloud Platform. The goal was to analyze loan data, derive meaningful insights, and present them through an interactive dashboard for business decision-making.
+# Loan Data Analytics Dashboard  
+### End-to-End Cloud Data Analytics Project (Google Cloud Platform)
 
 ---
 
-🛠️ Tech Stack
-- Google BigQuery (Data Warehousing)
-- SQL (Data Analysis & Transformation)
-- Looker (Data Visualization & Dashboarding)
-- Google Sheets (Data Preview & Exploration)
+## 📌 Overview
+This project demonstrates a complete cloud-based data analytics workflow using Google Cloud Platform. It focuses on analyzing loan data to generate actionable insights and presenting them through an interactive dashboard for business decision-making.
 
 ---
 
-📂 Dataset Description
-The dataset contains loan-related information including:
-- Loan amount
-- Loan status
-- Customer income
-- State and regional data
-- Loan purpose
+## 🛠️ Tech Stack
+- **Google BigQuery** – Data warehousing and querying  
+- **SQL** – Data cleaning, transformation, and analysis  
+- **Looker** – Data visualization and dashboard development  
+- **Google Sheets** – Data preview and quick analysis  
 
 ---
 
-⚙️ Key Tasks Performed
-- Data cleaning and transformation using SQL
-- Created relational tables and joins
-- Built aggregated datasets for analysis
-- Designed an interactive Looker dashboard
-- Generated business insights from loan data
+## 📂 Dataset
+The dataset includes key financial and customer-related attributes:
+- Loan amount and status  
+- Customer income  
+- State and regional classification  
+- Loan purpose  
 
 ---
 
-📸 Dashboard Preview
+## ⚙️ Project Workflow
 
-🔹 Final Dashboard
+### 1. Data Preparation
+- Structured raw data into relational tables
+- Cleaned and validated datasets using SQL
+
+### 2. Data Transformation
+- Performed joins between loan and regional datasets
+- Created derived tables for analytical use
+
+### 3. Data Analysis
+- Aggregated loan metrics (counts, totals, distributions)
+- Identified patterns across regions and customer segments
+
+### 4. Data Visualization
+- Built an interactive dashboard using Looker
+- Designed visuals for business-level insights
+
+---
+
+## 📊 Dashboard Preview
+
+### 🔹 Final Dashboard
 ![Dashboard](screenshots/dashboard-final.png)
 
 ---
 
-🔹 Loan Status Distribution
+### 🔹 Loan Status Distribution
 ![Loan Status](screenshots/loan-status-distribution.png)
 
 ---
 
-🔹 State-wise Loan Distribution
+### 🔹 State-wise Loan Distribution
 ![State Loans](screenshots/state-wise-loans.png)
 
 ---
 
-🔹 Top Customers by Income
+### 🔹 Top Customers by Income
 ![Top Customers](screenshots/top-customers.png)
 
 ---
 
-🧠 BigQuery Analysis
+## 🧠 Key Analysis
 
-🔹 Join Query Results
+### 🔹 BigQuery Join Results
 ![BigQuery Analysis](screenshots/bigquery-join-analysis.png)
 
 ---
 
-🔹 Dataset Overview
+### 🔹 Dataset Overview
 ![Dataset](screenshots/dataset-overview.png)
 
 ---
 
-📊 Key Insights
-- Majority of loans are in "Current" status (~87%)
-- California (CA) has the highest number of loans
-- High-income customers tend to have lower interest rates
-- Loan distribution is concentrated in specific regions
+## 📈 Key Insights
+- Majority of loans are in **Current status (~87%)**, indicating strong repayment trends  
+- Loan distribution is highly concentrated in key states such as **California and Texas**  
+- High-income customers tend to have **better loan conditions and lower risk**  
+- A small percentage of loans fall into **late or charged-off categories**, highlighting risk segments  
 
 ---
 
-🎯 Business Impact
-This dashboard helps stakeholders:
-- Monitor loan performance
-- Identify risk (late/default loans)
-- Understand regional trends
-- Target high-value customers
+## 🎯 Business Impact
+This dashboard enables stakeholders to:
+- Monitor loan portfolio performance  
+- Identify high-risk loan segments  
+- Analyze regional trends  
+- Support data-driven financial decisions  
 
 ---
 
-📌 Future Improvements
-- Add predictive analytics (loan default prediction)
-- Integrate real-time data pipelines
-- Enhance dashboard interactivity
+## 📌 Future Enhancements
+- Implement predictive models for loan default risk  
+- Integrate real-time data pipelines  
+- Enhance dashboard interactivity and filtering  
 
 ---
 
-Author
-
-Srikar Chetlapalli 
-
+## 👤 Author
+**Srikar**  
 Aspiring Cloud Data Analyst  
-
----
